@@ -1,9 +1,9 @@
 body {
-  background-color: #576319;
+  background-color: white;
   padding: 0px;
   margin: 0;
   height: 100%;
-
+  width: 100%;
         }
 
 h1, h3 {
@@ -25,30 +25,75 @@ h3 {
    text-align: center;
 }
 
+#top-buttons {
+  width: 100%;
+}
+
 button {
   display: inline-block;
   background-color: #0BA5BE;
-  width: 16%;
+  width: 19.35%;
   min-width: 90px;
   min-height: 50px;
   font-size: 90%;
   font-family: sanserif;
   font-weight: bold;
-  align-items: center;
   text-align: center;
-  border-color: black;
-  border-width: 1px;
-  border-style: solid;
-  vertical-align: middle;
-  justify-content: space-around;
+  border: 0;
+  border-radius: 10px;
+  margin: auto;
+  color: #013F4E;
+  justify-items: space-around;
+
        }
 button:hover {
         background-color: #013F4E;
-        color: #0BA5BE
+        color: #0BA5BE;
+        text-decoration: none;
        }
+
+button:visited {
+  color: white;
+  background-color: #0BA5BE;
+  text-decoration: none;
+}
+
+button:active {
+  color: white;
+  background-color: #0BA5BE;
+  text-decoration: none;
+}
+
+img.headshot {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  float: right;
+  margin-right: 30px;
+
+}
+
+img.team-photo {
+  display: block;
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #013F4E;
+}
+
+a:hover {
+  color: #0BA5BE;
+}
+
 hr {
-    background-color: black;
-    border-color: black;
+    background-color: #00718F;
+    border: solid white;
     height: 1px;
     padding: 0px;
   width: 100%;
@@ -69,38 +114,37 @@ main {
   text-align: center;
       background-color: #00718F;
       color: black;
-      padding: 15px;
-
+      padding: 15px 0px 15px 0px;
+  margin: auto;
 
      }
+
+footer {
+  margin: 15px 0 15px 30px;
+}
 
 .top-bar {
-      background-color: #CFCBC8;
-      text-indent: 30px;
-      padding: 30px;
+  background-color: #faf0e6;
+  text-indent: 30px;
+  padding: 30px;
   margin: 25px;
+  border-radius: 20px;
      }
 
-a {
-  color: #013F4E;
-  text-decoration: none;
-}
+.team-top-bar {
+  background-color: #faf0e6;
+  padding: 30px;
+  margin: 25px;
+  border-radius: 20px;
+     }
 
-a:visited {
-  color: #0BA5BE;
-  text-decoration: none;
+.cv-top-bar {
+  background-color: #faf0e6;
+  text-indent: 30px;
+  padding: 30px;
+  margin: 25px;
+  border-radius: 40px;
 }
-
-a:hover {
-  color: #0BA5BE;
-  text-decoration: none;
-}
-
-a:active {
-  color: #0BA5BE;
-  text-decoration: none;
-}
-
 
 section1 {
   width: 100%;
@@ -164,4 +208,18 @@ input[type="submit"] {
 
 input[type="file"] {
   padding: 1px 2px;
+}
+
+section1.team {
+  text-align: center;
+}
+
+h4 {
+  font-size: 20px;
+  margin: 20px 0 0 0;
+}
+
+p.citation {
+  text-indent: 0;
+  margin: 10px 30px 10px 30px;
 }
