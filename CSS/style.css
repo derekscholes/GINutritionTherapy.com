@@ -5,7 +5,7 @@
 
     /*footer*/
 
-    
+
 body {
   background-color: white;
   padding: 0px;
@@ -241,12 +241,14 @@ p.citation {
 .ps {
   width: 80%;
   text-align: left;
-  margin: 0 auto 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   align-items: center;
 }
 
 .personal-statement {
-  margin: 0 auto 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /*Blog Page*/
