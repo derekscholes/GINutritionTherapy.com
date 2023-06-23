@@ -27,8 +27,8 @@
  
  .toggle{
     background-color:#30BDF2;
-    height: 80px;
-    width: 80px;
+    height: 60px;
+    width: 60px;
     color:white ;
     display: flex;
     align-items: center;
@@ -49,7 +49,7 @@
  
  a{
     padding: 10px;
-    font-size: 30px;
+    font-size: 20px;
    text-decoration: none;
    color: black;
    margin: 0 5px 0 5px;
@@ -57,7 +57,7 @@
  }
  
  a:hover{
-    font-size: 40px;
+    font-size: 30px;
     color:#30BDF2;
  }
   
