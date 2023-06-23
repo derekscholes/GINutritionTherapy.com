@@ -1,4 +1,12 @@
-
+.heading {
+   text-align: center;
+       background-color: #00718F;
+       color: black;
+       padding: 15px 0px 15px 0px;
+   margin: auto;
+ 
+      }
+ 
  body{
     background-color: #eeeeee;
     padding: 0;
