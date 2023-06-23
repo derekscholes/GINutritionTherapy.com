@@ -1,7 +1,4 @@
-.title {
-   text-align: center;
- }
- 
+
  body{
     background-color: #eeeeee;
     padding: 0;
@@ -55,15 +52,7 @@
     font-size: 40px;
     color:#30BDF2;
  }
-
- div {
-    margin: 0;
-  }
   
-  main {
-    width: 100%;
-    margin: 0;
-  }
   
   .heading {
     text-align: center;
