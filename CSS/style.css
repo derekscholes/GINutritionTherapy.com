@@ -228,6 +228,7 @@ p.citation {
 .ps {
   width: 80%;
   text-align: left;
+  margin: 0 auto 0 auto;
 }
 
 .personal-statement {
