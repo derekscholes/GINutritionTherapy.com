@@ -36,6 +36,10 @@
     transition: 1s;
  }
  
+ .toggle>.material-icons {
+   font-size: 50px;
+ }
+
  .items{
     display: flex;
     flex-direction: row;
