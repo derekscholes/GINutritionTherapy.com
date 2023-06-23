@@ -251,6 +251,12 @@ p.citation {
   margin-right: auto;
 }
 
+.cv-link {
+  background-color: #0BA5BE;
+  padding: 10px;
+  color:#faf0e6;
+}
+
 /*Blog Page*/
 .weight-loss {
   width: 90%;
