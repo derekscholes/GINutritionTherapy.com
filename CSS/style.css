@@ -225,12 +225,11 @@ p.citation {
 }
 
 /*Team page*/
-.personal-statement {
+.ps {
   width: 80%;
   text-align: left;
-  margin: 0 auto 0 auto;
 }
 
-cv-link {
-  text-align: center;
+.personal-statement {
+  margin: 0 auto 0 auto;
 }
