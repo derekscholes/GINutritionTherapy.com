@@ -1,8 +1,8 @@
+
 var state=false;
   function expand(){
     if(state==false){
-      document.getElementById('items').style.transform='scaleX(1)';
-      document.getElementById('toggle1').style.transform='rotate(45deg)';
+      document.getElementById('items').style.transform='scaleX(1)';  
         state=true;
   }
     else{
