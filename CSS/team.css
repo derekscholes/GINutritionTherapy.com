@@ -81,3 +81,19 @@
         margin: 0;
         font-family: Tahoma;
       }
+
+      h1, h3 {
+         text-align: center;
+         }
+ h1 {
+     font-size: 35px;
+     font-family: Tahoma;
+     }
+ h2 {
+     font-size: 30px;
+     text-decoration: ;
+     }
+ h3 {
+     font-size: 25px;
+     }
+ 
