@@ -154,6 +154,15 @@
       border-radius: 40px;
     }
     
+    .contact-top-bar {
+      background-color: #faf0e6;
+      padding: 30px;
+      margin: 25px auto 20px auto;
+      border-radius: 20px;
+      width: 70%;
+      min-width: 200px;
+    }
+
     section1 {
       width: 100%;
       height: 100vh;
