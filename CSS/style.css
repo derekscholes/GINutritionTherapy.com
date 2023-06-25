@@ -255,9 +255,14 @@
       align-items: center;
     }
     
+    .team-description {
+      font-size: 20px;
+    }
+
     .personal-statement {
       margin-left: auto;
       margin-right: auto;
+      font-size: 20px;
     }
     
     .cv-link {
