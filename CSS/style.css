@@ -350,3 +350,9 @@
     ol {
       margin: 0;
     }
+
+    /*Documents Html*/
+    img.download-image {
+      width: 100px;
+      height: 50px;
+    }
