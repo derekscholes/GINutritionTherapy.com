@@ -245,7 +245,11 @@
     
     
     /*Curriculum Vitae Page*/
-    
+    .CV-text {
+      font-size: 20px;
+    }
+
+
     /*Team page*/
     .ps {
       width: 80%;
