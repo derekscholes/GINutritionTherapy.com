@@ -352,7 +352,7 @@
     }
 
     /*Documents Html*/
-    img.download-image {
+    .download-image {
       width: 100px;
       height: 50px;
     }

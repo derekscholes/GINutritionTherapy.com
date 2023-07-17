@@ -1,4 +1,4 @@
-var state=false;
+/*var state=false;
   function expand(){
     if(state==false){
       document.getElementById('items').style.transform='scaleX(1)';
@@ -9,7 +9,7 @@ var state=false;
       document.getElementById('toggle1').style.transform='rotate(0deg)';
 	state=false;
   }
-}
+}*/
 
 //Blog Page-->//
 var coll = document.getElementsByClassName("collapsible");
