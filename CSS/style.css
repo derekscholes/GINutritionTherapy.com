@@ -43,7 +43,7 @@
       width: 19.35%;
       min-width: 90px;
       min-height: 50px;
-      font-size: 1vw;
+      font-size: calc(9px + 1vw);
       font-family: sanserif;
       font-weight: bold;
       text-align: center;
