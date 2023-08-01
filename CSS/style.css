@@ -10,11 +10,11 @@
          }
     
      .heading-picture {
-      display: block;
+      display: flex;
       text-align: left;
       justify-content: left;
-      height: 50px;
-      width: 50px;
+      height: 100px;
+      width: 120px;
 
      }
     /*body*/
