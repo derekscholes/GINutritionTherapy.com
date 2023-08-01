@@ -76,15 +76,6 @@
       text-decoration: none;
     }
     
-    img.headshot {
-      width: 300px;
-      height: 300px;
-      border-radius: 150px;
-      float: right;
-      margin-right: 30px;
-    
-    }
-    
     img.team-photo {
       display: block;
       width: 150px;
@@ -255,6 +246,15 @@
       margin-right: 30px;
       text-align: left;
       text-indent: 0;
+    }
+
+    img.headshot {
+      width: 300px;
+      height: 300px;
+      border-radius: 150px;
+      float: right;
+      margin-right: 30px;
+      display: flex;
     }
 
 
