@@ -313,15 +313,16 @@
       margin-left: 15px;
     }
     
+    .blog-row {
+      display: flex;
+      width: 100%;
+    }
     .blog-links {
       margin-left: auto;
       margin-right: auto;
       padding: 10px;
       background-color: white;
-      display: flex;
-      flex-direction: row;
-      width: 20%;
-      justify-content: center;
+      flex: 32%;
       text-indent: 0px;
     }
     
@@ -386,4 +387,9 @@
     img.download-image {
       width: 250px;
       height: 125px;
+    }
+
+    .doc-link {
+      text-align: center;
+      align-items: center;
     }
