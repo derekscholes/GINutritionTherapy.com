@@ -21,15 +21,13 @@
     .top-buttons > * {
       flex: 1 1 0;
     }
-    
-    .top-buttons :first-child {
-      width: 120px;
-    }
 
     .heading-picture {
       height: 100px;
       width: 120px;
       margin: 0;
+      flex: column 0.5 1 0;
+    
      }
     
     button {
