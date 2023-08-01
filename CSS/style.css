@@ -15,7 +15,20 @@
       align-items: center;
       justify-content: center;
     }
-    .top-buttons > * {
+
+    .top-buttons :second-child {
+      flex: 1 1 0;
+    }
+    .top-buttons :third-child {
+      flex: 1 1 0;
+    }
+    .top-buttons :fourth-child {
+      flex: 1 1 0;
+    }
+    .top-buttons :fifth-child {
+      flex: 1 1 0;
+    }
+    .top-buttons :sixth-child {
       flex: 1 1 0;
     }
 
@@ -37,6 +50,7 @@
       border-radius: 10px;
       margin: 2px;
       color: #013F4E;
+      width: calc(90px + 1vw);
     
            }
 
