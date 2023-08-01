@@ -24,7 +24,6 @@
     
     button {
       background-color: #0BA5BE;
-      min-width: 90px;
       min-height: 50px;
       font-size: calc(8px + 1vw);
       font-family: sanserif;
