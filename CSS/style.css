@@ -20,6 +20,7 @@
     
     .top-buttons > * {
       flex: column 1 1 0;
+      margin: 2px;
     }
 
     .heading-picture {
