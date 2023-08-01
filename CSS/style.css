@@ -257,6 +257,13 @@
       display: flex;
     }
 
+    .education {
+      display: block;
+    }
+
+    .work-experience {
+      display: block;
+    }
 
     /*Team page*/
     .ps {
