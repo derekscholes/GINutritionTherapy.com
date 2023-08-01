@@ -1,6 +1,9 @@
 /*General CSS for ALL webpages*/
     /*header*/
-
+     .heading-picture {
+      height: 50px;
+      width: 50px;
+     }
     /*body*/
 
     /*footer*/
