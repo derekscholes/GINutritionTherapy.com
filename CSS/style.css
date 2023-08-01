@@ -1,8 +1,11 @@
 /*General CSS for ALL webpages*/
     /*header*/
      .heading-picture {
+      display: block;
+      justify: left;
       height: 50px;
       width: 50px;
+
      }
     /*body*/
 
