@@ -326,8 +326,7 @@
     }
 
     .blog-links {
-      margin-left: auto;
-      margin-right: auto;
+      margin: 2px;
       padding: 10px;
       background-color: white;
       border-radius: 10px;
