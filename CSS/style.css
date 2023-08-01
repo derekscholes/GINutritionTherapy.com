@@ -263,15 +263,6 @@
 
     .column {
       flex: 50%;
-      min-width: 50%;
-    }
-
-    .education {
-      display: block;
-    }
-
-    .work-experience {
-      display: block;
     }
 
     /*Team page*/
