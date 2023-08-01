@@ -17,8 +17,8 @@
     }
 
     .heading-picture {
-      height: 100px;
-      width: 130px;
+      height: calc(10px + 1vw);
+      width: calc(13px + 1vw);
       margin: 0;
       flex: column;
      }
