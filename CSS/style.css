@@ -93,7 +93,7 @@
     
     hr {
         background-color: black;
-        border: solid black;
+        border: 0;
         height: 1px;
         padding: 0px;
       width: 100%;
