@@ -18,24 +18,8 @@
       flex-wrap: wrap;
     }
     
-    .top-buttons :first-child {
+    .top-buttons > * {
       flex: column 1 1 0;
-      margin: 0;
-    }
-    .top-buttons :second-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :third-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :fourth-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :fifth-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :sixth-child {
-      flex: 1 1 0;
     }
 
     .heading-picture {
