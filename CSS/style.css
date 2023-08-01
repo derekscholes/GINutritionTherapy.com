@@ -22,8 +22,8 @@
     
 
     .heading-picture {
-      height: calc(20px + 1vw);
-      width: calc(26px + 1vw);
+      height: calc(20px + 2vw);
+      width: calc(26px + 2vw);
       margin: 0;
       flex: column;
      }
@@ -37,7 +37,6 @@
       text-align: center;
       border: 0;
       border-radius: 10px;
-      margin: 2px;
       color: #013F4E;
       width: calc(90px + 1vw);
     
