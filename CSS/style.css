@@ -16,21 +16,10 @@
       justify-content: center;
     }
 
-    .top-buttons :second-child {
+    .top-buttons > * {
       flex: 1 1 0;
     }
-    .top-buttons :third-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :fourth-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :fifth-child {
-      flex: 1 1 0;
-    }
-    .top-buttons :sixth-child {
-      flex: 1 1 0;
-    }
+    
 
     .heading-picture {
       height: calc(20px + 1vw);
