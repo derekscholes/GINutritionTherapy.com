@@ -25,6 +25,7 @@
     
     button {
       background-color: #0BA5BE;
+      min-height: 50px;
       font-size: calc(8px + 1vw);
       font-family: sanserif;
       font-weight: bold;
@@ -36,6 +37,24 @@
       flex: 30%;
     
            }
+
+    .top-buttons :second-child {
+     width: 15%;
+    }
+    .top-buttons :third-child {
+      width: 15%;
+     }
+     .top-buttons :fourth-child {
+      width: 15%;
+     }
+     .top-buttons :fifth-child {
+      width: 15%;
+     }
+     .top-buttons :sixth-child {
+      width: 15%;
+     }
+
+
     button:hover {
             background-color: #013F4E;
             color: #0BA5BE;
