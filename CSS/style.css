@@ -15,7 +15,10 @@
       align-items: center;
       justify-content: center;
     }
-
+    .top-buttons > * {
+      flex: 1 1 0;
+    }
+    
     .heading-picture {
       height: calc(10px + 1vw);
       width: calc(13px + 1vw);
@@ -36,23 +39,6 @@
       color: #013F4E;
     
            }
-
-    .top-buttons :second-child {
-     flex: 1 1 0;
-    }
-    .top-buttons :third-child {
-      flex: 1 1 0;
-     }
-     .top-buttons :fourth-child {
-      flex: 1 1 0;
-     }
-     .top-buttons :fifth-child {
-      flex: 1 1 0;
-     }
-     .top-buttons :sixth-child {
-      flex: 1 1 0;
-     }
-
 
     button:hover {
             background-color: #013F4E;
