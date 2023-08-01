@@ -26,7 +26,7 @@
       background-color: #0BA5BE;
       min-width: 90px;
       min-height: 50px;
-      font-size: calc(9px + 1vw);
+      font-size: calc(8px + 1vw);
       font-family: sanserif;
       font-weight: bold;
       text-align: center;
@@ -36,6 +36,7 @@
       color: #013F4E;
       flex: column;
       width: 15%;
+      vertical-align: middle;
     
            }
     button:hover {
