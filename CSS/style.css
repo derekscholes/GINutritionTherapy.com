@@ -263,6 +263,7 @@
 
     .column {
       flex: 50%;
+      min-width: 50%;
     }
 
     .education {
