@@ -17,6 +17,7 @@
     .heading-picture {
       height: 100px;
       width: 100px;
+      margine: 0;
      }
     
     button {
