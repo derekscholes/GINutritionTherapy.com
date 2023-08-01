@@ -38,19 +38,19 @@
            }
 
     .top-buttons :second-child {
-     width: 15%;
+     flex: 1 1 0;
     }
     .top-buttons :third-child {
-      width: 15%;
+      flex: 1 1 0;
      }
      .top-buttons :fourth-child {
-      width: 15%;
+      flex: 1 1 0;
      }
      .top-buttons :fifth-child {
-      width: 15%;
+      flex: 1 1 0;
      }
      .top-buttons :sixth-child {
-      width: 15%;
+      flex: 1 1 0;
      }
 
 
