@@ -19,7 +19,7 @@
     }
     
     .top-buttons :first-child {
-      flex: column 0.5 1 0;
+      flex: column 1 1 0;
       margin: 0;
     }
     .top-buttons :second-child {
