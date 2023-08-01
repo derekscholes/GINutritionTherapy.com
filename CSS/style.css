@@ -22,8 +22,8 @@
     
 
     .heading-picture {
-      height: 100;
-      width: 130;
+      height: 100px;
+      width: 130px;
       margin: 0;
       flex: column;
      }
