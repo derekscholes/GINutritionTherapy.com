@@ -274,9 +274,8 @@
     }
 
     .ACG {
-      width: 200px;
-      height: 100px;
-      text-align: center;
+      width: 50%;
+      margin: 30px auto 30px auto;
     }
 
     img.headshot {
