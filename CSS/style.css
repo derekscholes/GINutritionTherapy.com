@@ -260,6 +260,7 @@
 
     .column {
       flex: 50%;
+      width: 50%;
     }
 
     /*Team page*/
