@@ -18,41 +18,7 @@
 
      }
 
-    /*body*/
-
-    /*footer*/
-
-
-    body {
-      background-color: white;
-      padding: 0px;
-      margin: 0;
-      height: 100%;
-      width: 100%;
-      text-indent: 0;
-            }
-    
-    h1, h3 {
-            text-align: center;
-            }
-    h1 {
-        font-size: 35px;
-        font-family: Tahoma;
-        }
-    h2 {
-        font-size: 30px;
-        text-decoration: ;
-        }
-    h3 {
-        font-size: 25px;
-        }
-
-    
-    .contact {
-       text-align: center;
-    }
-    
-    #top-buttons {
+     #top-buttons {
       display: flex;
       width: 100%;
     }
@@ -90,6 +56,41 @@
       text-decoration: none;
     }
     
+    /*body*/
+
+    /*footer*/
+
+
+    body {
+      background-color: white;
+      padding: 0px;
+      margin: 0;
+      height: 100%;
+      width: 100%;
+      text-indent: 0;
+            }
+    
+    h1, h3 {
+            text-align: center;
+            }
+    h1 {
+        font-size: 35px;
+        font-family: Tahoma;
+        }
+    h2 {
+        font-size: 30px;
+        text-decoration: ;
+        }
+    h3 {
+        font-size: 25px;
+        }
+
+    
+    .contact {
+       text-align: center;
+    }
+    
+   
     img.team-photo {
       display: block;
       width: 150px;
