@@ -8,20 +8,16 @@
       margin: auto;
     
          }
-    
-     .heading-picture {
-      display: flex;
-      text-align: left;
-      justify-content: left;
-      height: 100px;
-      width: 100px;
-
-     }
 
      #top-buttons {
       display: flex;
       width: 100%;
     }
+
+    .heading-picture {
+      height: 100px;
+      width: 100px;
+     }
     
     button {
       background-color: #0BA5BE;
