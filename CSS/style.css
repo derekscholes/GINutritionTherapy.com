@@ -18,6 +18,7 @@
       height: 100px;
       width: 130px;
       margin: 0;
+      flex: column;
      }
     
     button {
@@ -33,6 +34,7 @@
       margin: 5px;
       color: #013F4E;
       justify-content: center;
+      flex: column;
     
            }
     button:hover {
