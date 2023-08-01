@@ -254,7 +254,15 @@
       border-radius: 150px;
       float: right;
       margin-right: 30px;
+      position: absolute;
+    }
+
+    .row {
       display: flex;
+    }
+
+    .column {
+      flex: 50%;
     }
 
     .education {
