@@ -18,10 +18,10 @@
     .top-buttons > * {
       flex: 1 1 0;
     }
-    
+
     .heading-picture {
-      height: calc(10px + 1vw);
-      width: calc(13px + 1vw);
+      height: calc(30px + 1vw);
+      width: calc(39px + 1vw);
       margin: 0;
       flex: column;
      }
