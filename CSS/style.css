@@ -334,7 +334,7 @@
     .blog-links {
       margin: 2px;
       padding: 10px;
-      background-color: white;
+      background-color: #b2eef7;
       border-radius: 10px;
       text-align: center;
       flex: 30%;
@@ -342,7 +342,7 @@
     }
     
     .collapsible {
-      background-color: #013F4E;
+      background-color: #72e1f2;
       color: black;
       cursor: pointer;
       padding: 18px;
@@ -361,7 +361,7 @@
       max-height: 0;
       overflow: hidden;
       transition: max-height 0.2s ease-out;
-      background-color: #faf0e6;
+      background-color: #0BA5BE;
       text-indent: 0;
       font-size: 20px;
     }
@@ -374,7 +374,7 @@
     }
     
     .active, .collapsible:hover {
-      background-color: #0BA5BE;
+      background-color: #72e1f2;
       color: black;
     }
     
