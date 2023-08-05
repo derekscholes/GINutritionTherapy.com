@@ -2,11 +2,10 @@
     /*header*/
     .heading {
       text-align: center;
-          background-color: #00718F;
-          color: black;
-          padding: 15px 0px 15px 0px;
+      background-color: #00718F;
+      color: black;
+      padding: 15px 0px 15px 0px;
       margin: auto;
-    
          }
 
      .top-buttons {
@@ -26,7 +25,6 @@
     .heading-picture {
       height: 100px;
       width: 130px;
-    
      }
     
     button {
@@ -41,7 +39,6 @@
       color: #013F4E;
       width: calc(50px + 13vw);
       margin: 2px;
-    
            }
 
     button:hover {
@@ -61,12 +58,9 @@
       background-color: #0BA5BE;
       text-decoration: none;
     }
-    
+
+
     /*body*/
-
-    /*footer*/
-
-
     body {
       background-color: white;
       padding: 0px;
@@ -91,7 +85,6 @@
         font-size: 25px;
         }
 
-    
     .contact {
        text-align: center;
     }
@@ -122,7 +115,6 @@
         padding: 0px;
       width: 100%;
       margin: 20px 0 20px 0;
-    
         }
     
     div {
