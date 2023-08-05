@@ -329,16 +329,20 @@
     .blog-row {
       display: flex;
       width: 100%;
+    
     }
 
     .blog-links {
       margin: 2px;
       padding: 10px;
-      background-color: #b2eef7;
+      background-color: white;
       border-radius: 10px;
       text-align: center;
       flex: 30%;
       text-indent: 0px;
+      border: solid;
+      border-color: black;
+      
     }
     
     .collapsible {
@@ -354,7 +358,7 @@
       margin-top: 15px;
       margin-bottom: 10px;
       border-radius: 10px;
-      margin-left: 0;
+      margin-left: 0
     }
     
     .content {
@@ -362,9 +366,6 @@
       max-height: 0;
       overflow: hidden;
       transition: max-height 0.2s ease-out;
-      background-color: white;
-      border: solid;
-      border-color: black;
       text-indent: 0;
       font-size: 20px;
     }
